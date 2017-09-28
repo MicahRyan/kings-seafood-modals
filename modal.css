@@ -881,6 +881,10 @@ body {
   cursor: pointer;
 }
 
+.modal-logo-wrapper {
+   text-align: center;
+}
+
 .modal-close.light {
   color: #fff;
 }
