@@ -87,6 +87,10 @@
   font-size: 14px;
 }
 
+.margin-bottom {
+    margin-bottom: 1rem;
+}
+
 @media (max-width: 991px) {
   .bottom-menu {
     text-align: center;
