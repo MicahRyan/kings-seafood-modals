@@ -1,7 +1,7 @@
 
 /* Generated on: Mon Sep 18 2017 16:03:53 GMT+0000 (UTC) */
 /* ==========================================================================
-   normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css 
+   normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css
    ========================================================================== */
 
 /* ==========================================================================
@@ -80,6 +80,10 @@
 
 .dark {
   color: #1a1a1a;
+}
+
+.light-font-color {
+  color: #eee;
 }
 
 @media (max-width: 991px) {
