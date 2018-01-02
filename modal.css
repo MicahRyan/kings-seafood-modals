@@ -84,6 +84,7 @@
 
 .light-font-color {
   color: #eee;
+  font-size: 14px;
 }
 
 @media (max-width: 991px) {
